@@ -1,0 +1,7 @@
+These are the library requirements to provide success running in file 'code_to_analysis.ipynb':
+
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
